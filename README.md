@@ -1,4 +1,0 @@
-# Bug bounty program
-
-
-

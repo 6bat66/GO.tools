@@ -38,7 +38,7 @@ go install -v github.com/sensepost/gowitness@latest
 go install -v github.com/haccer/subjack@latest
 go install -v github.com/jaeles-project/jaeles@latest
 go install -v github.com/projectdiscovery/katana/cmd/katana@latest
-
+go install -v github.com/haccer/subjack@latest
 
 pip install --upgrade xnLinkFinder
 pip install wfuzz

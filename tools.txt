@@ -36,6 +36,8 @@ go install -v github.com/rverton/webanalyze/cmd/webanalyze@latest
 go install -v github.com/tomnomnom/httprobe@latest
 go install -v github.com/sensepost/gowitness@latest
 go install -v github.com/haccer/subjack@latest
+go install -v github.com/jaeles-project/jaeles@latest
+go install -v github.com/projectdiscovery/katana/cmd/katana@latest
 
 
 pip install --upgrade xnLinkFinder
